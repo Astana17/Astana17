@@ -1,16 +1,21 @@
-## Hi there 👋
+# Yerkanat Nurmakhanov
 
-<!--
-**Astana17/Astana17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer · Python, FastAPI, and applied machine learning**
 
-Here are some ideas to get you started:
+I build Python tools for searching documents, answering questions with source references, and turning model experiments into demos people can run. My background in robotics, medical-device R&D, and teaching taught me to define the behavior, test it, and explain the result.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- **AutoSphere · Document Q&A.** A team-built FastAPI and FAISS prototype for Russian-language road traffic and vehicle insurance documents. Answers include references to the retrieved sections. [Repository](https://github.com/Astana17/AutoSphere)
+- **Telco Churn · Retention outreach.** A team project using scikit-learn to compare classifiers and choose when to flag a customer. One recorded run detected 296 of 374 churners on a held-out set, with 299 false positives. [Repository](https://github.com/Astana17/SEN_W6_Telco_Churn)
+- **AI Ping Pong · Reproducible simulation.** A genetic algorithm tunes a bot in a headless physics engine shared with the playable Pygame demo. The repository includes a saved champion, a fitness chart, tests, and an API for inspecting training results. [Repository](https://github.com/Astana17/AI-ping-pong_game)
+
+## Background
+
+- **Tomorrow School AI** · AI studies, 2025–2026.
+- **Robotics and mechatronics** · BSc and prior R&D work in medical technology.
+- **Robotics coaching and ICT teaching** · Prepared student teams for robotics competitions.
+
+**Core tools** · Python, FastAPI, scikit-learn, FAISS, SQL
+
+[LinkedIn](https://www.linkedin.com/in/yerkanat-nurmakhanov)
