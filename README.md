@@ -6,9 +6,9 @@ I build Python tools for searching documents, answering questions with source re
 
 ## Selected projects
 
-- **AutoSphere · Document Q&A.** A team-built FastAPI and FAISS prototype for Russian-language road traffic and vehicle insurance documents. Answers include references to the retrieved sections. [Repository](https://github.com/Astana17/AutoSphere)
-- **Telco Churn · Retention outreach.** A team project using scikit-learn to compare classifiers and choose when to flag a customer. One recorded run detected 296 of 374 churners on a held-out set, with 299 false positives. [Repository](https://github.com/Astana17/SEN_W6_Telco_Churn)
-- **AI Ping Pong · Reproducible simulation.** A genetic algorithm tunes a bot in a headless physics engine shared with the playable Pygame demo. The repository includes a saved champion, a fitness chart, tests, and an API for inspecting training results. [Repository](https://github.com/Astana17/AI-ping-pong_game)
+- **AutoSphere · Document Q&A.** A team-built FastAPI and FAISS prototype for Russian-language road traffic and vehicle insurance documents. Answers include references to the retrieved sections. [Repository](https://github.com/Astana17/autosphere-rag)
+- **Telco Churn · Retention outreach.** A team project using scikit-learn to compare classifiers and choose when to flag a customer. One recorded run detected 296 of 374 churners on a held-out set, with 299 false positives. [Repository](https://github.com/Astana17/telco-churn-prediction)
+- **Genetic Pong · Reproducible simulation.** A genetic algorithm tunes a bot in a headless physics engine shared with the playable Pygame demo. The repository includes a saved champion, a fitness chart, tests, and an API for inspecting training results. [Repository](https://github.com/Astana17/genetic-pong)
 
 ## Background
 
