@@ -1,4 +1,4 @@
-# Yerkanat Nurmakhanov
+# Yerkanat N
 
 **AI/ML Engineer · Python, FastAPI, and applied machine learning**
 
